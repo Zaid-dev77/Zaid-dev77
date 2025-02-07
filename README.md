@@ -1,4 +1,3 @@
-Khan
 💻 Web Developer | WordPress | Wix | Squarespace | Frontend Development
 
 I am a passionate web developer with 2 years of experience in building dynamic, responsive, and user-friendly websites. My expertise lies in WordPress, Elementor Page Builder, Wix, and Squarespace, along with a strong command of HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS. I love crafting clean, optimized, and scalable web solutions that enhance user experience and performance.
