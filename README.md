@@ -1,13 +1,15 @@
 💻 Web Developer | WordPress | Wix | Squarespace | Frontend Development
 
-I am a passionate web developer with 2 years of experience in building dynamic, responsive, and user-friendly websites. My expertise lies in WordPress, Elementor Page Builder, Wix, and Squarespace, along with a strong command of HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS. I love crafting clean, optimized, and scalable web solutions that enhance user experience and performance.
+I am a passionate web developer with 2+ years of experience in building dynamic, responsive, and user-friendly websites. Since May 2023, I’ve been working as a front-end developer at **DEP LLC**, where I specialize in crafting clean, optimized, and scalable web solutions. My expertise lies in WordPress, Elementor Page Builder, Wix, and Squarespace, along with a strong command of HTML, CSS, JavaScript, Bootstrap, and Tailwind CSS.  
 
-Beyond coding, I am constantly learning and exploring new web technologies to stay ahead in the ever-evolving digital world. Whether it's front-end design, website customization, or performance optimization, I am always up for a challenge.
+I love creating websites that not only look great but also deliver exceptional user experiences and performance. Whether it's front-end design, website customization, or performance optimization, I’m always up for a challenge.  
 
-💡 Interests
-When I’m not coding, I enjoy indulging in my other passions:
-🎮 Gaming – Avid gamer who loves exploring different genres.
-⚽ Football – Big fan of the sport, whether it's playing or watching.
+🌱 Constantly learning and exploring new web technologies to stay ahead in the ever-evolving digital world.  
+
+💡 Interests:  
+When I’m not coding, I enjoy:  
+🎮 Gaming – Avid gamer who loves exploring different genres.  
+⚽ Football – Big fan of the sport, whether it's playing or watching.  
 🎬 Movies – Enjoy watching all kinds of movies, from action to thrillers.
 
 📩 How to Reach Me
